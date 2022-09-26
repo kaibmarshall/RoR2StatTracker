@@ -1,0 +1,23 @@
+<Stats updated="yes">
+    <totalGamesPlayed>9</totalGamesPlayed>
+    <totalStagesCompleted>96</totalStagesCompleted>
+    <totalDeaths>9</totalDeaths>
+    <avgStagesPerRun>10.7</avgStagesPerRun>
+    <lifetimeKills>7679</lifetimeKills>
+    <lifetimeDamageDealt>159579366</lifetimeDamageDealt>
+    <survivorCounts>
+        <commandoCount nick="CommandoBody" name="Commando">1</commandoCount>
+        <huntressCount nick="HuntressBody" name="Huntress">6</huntressCount>
+        <MULTCount nick="ToolbotBody" name="MUL-T">0</MULTCount>
+        <engiCount nick="EngiBody" name="Engineer">0</engiCount>
+        <artifCount nick="MageBody" name="Artificer">0</artifCount>
+        <mercCount nick="MercBody" name="Mercenary">0</mercCount>
+        <REXCount nick="TreebotBody" name="Rex">0</REXCount>
+        <loaderCount nick="LoaderBody" name="Loader">4</loaderCount>
+        <acridCount nick="CrocoBody" name="Acrid">0</acridCount>
+        <captainCount nick="CaptainBody" name="Captain">1</captainCount>
+    </survivorCounts>
+    <currentFav>Huntress</currentFav>
+    <lastSeed>1327355024410034731</lastSeed>
+    <prevRunFileLocation>C:\Program Files (x86)\Steam\steamapps\common\Risk of Rain 2\Risk of Rain 2_Data\RunReports\PreviousRun.xml</prevRunFileLocation>
+</Stats>
